@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Colegio Nuestra Señora de la Santísima Purificación</h1>
+        <h1>Colegio Vladimir Romanian</h1>
         <h2>Opciones disponibles</h2>
         <ul>
             <li><a href="listaAlumno.jsp">Listado de alumnos</a></li>
